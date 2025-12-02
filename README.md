@@ -3,10 +3,10 @@
 ![RebelVPN Pro](screenshot.png)
 
 **Powerful, Modern & Open-Source VPN Client for Windows**  
-**کلاینت VPN قدرتمند، مدرن و متن‌ باز برای ویندوز**
+**کلاینت وی پی ان قدرتمند، مدرن و متن‌ باز برای ویندوز**
 
 Supports **Xray** and **Sing-box** natively • Built for speed and privacy  
-پشتیبانی کامل و مستقیم از (Xray و Sing-box) طراحی‌ شده برای سرعت و حریم خصوصی
+پشتیبانی کامل و مستقیم از (Xray و Sing-box)
 
 [![Version](https://img.shields.io/github/v/release/Arianlavi/RebelVPN-Pro?label=Version&color=blue)](https://github.com/Arianlavi/RebelVPN-Pro/releases)
 [![Downloads](https://img.shields.io/github/downloads/Arianlavi/RebelVPN-Pro/total?color=success)](https://github.com/Arianlavi/RebelVPN-Pro/releases)
