@@ -1,4 +1,5 @@
-# 🛡️ RebelVPN Pro<a href="https://github.com/Arianlavi/RebelVPN-Pro/releases/download/v1.2.0/V1.2.zip">
+# 🛡️ RebelVPN Pro
+<a href="https://github.com/Arianlavi/RebelVPN-Pro/releases/download/v1.2.0/V1.2.zip">
   <img src="https://img.shields.io/badge/Download_RebelVPN_Pro-v1.2.0-0099ff?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="Download RebelVPN Pro"/>
 </a>
 
