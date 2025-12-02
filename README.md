@@ -39,7 +39,7 @@ Supports **Xray** and **Sing-box** natively • Built for speed and privacy
 ## 📥 Download | دانلود
 
 ### Latest Version (Recommended)
-[![Download RebelVPN Pro](https://img.shields.io/github/v/release/Arianlavi/RebelVPN-Pro?color=0099ff&label=Download%20Latest&logo=github)](https://github.com/Arianlavi/RebelVPN-Pro/releases/latest/download/RebelVPN-Pro.exe)
+[![Download RebelVPN Pro](https://img.shields.io/github/v/release/Arianlavi/RebelVPN-Pro?color=0099ff&label=Download%20Latest&logo=github)](https://github.com/Arianlavi/RebelVPN-Pro/releases/download/v1.2.0/V1.2.zip)
 
 > No installation required • Just download and run  
 > بدون نیاز به نصب • فقط دانلود کنید و اجرا کنید
