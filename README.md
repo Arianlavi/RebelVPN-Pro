@@ -1,6 +1,6 @@
 # 🛡️ RebelVPN Pro
 
-![RebelVPN Pro](docs/images/screenshot.png)
+![RebelVPN Pro](screenshot.png)
 
 **Powerful, Modern & Open-Source VPN Client for Windows**  
 **کلاینت VPN قدرتمند، مدرن و متن‌ باز برای ویندوز**
