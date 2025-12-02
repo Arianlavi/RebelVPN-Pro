@@ -140,7 +140,7 @@ See [LICENSE](LICENSE) for details.
 
 <br/>
 
-[![Star History](https://api.star-history.com/svg?repos=Arianlavi/RebelVPN-Pro&type=Date)](https://star-history.com/#Arianlavi/RebelVPN-Pro)
+[![Star History](https://api.star-history.com/svg?repos=Arianlavi/RebelVPN-Pro&type=Date)](https://star-history.com/Arianlavi/RebelVPN-Pro)
 
 **اگر این پروژه براتون مفید بود، لطفاً یک ستاره ⭐ بزنید!**
 
