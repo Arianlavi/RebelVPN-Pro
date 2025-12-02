@@ -142,7 +142,7 @@ See [LICENSE](LICENSE) for details.
 
 [![Star History](https://api.star-history.com/svg?repos=Arianlavi/RebelVPN-Pro&type=Date)](https://star-history.com/Arianlavi/RebelVPN-Pro)
 
-**اگر این پروژه براتون مفید بود، لطفاً یک ستاره ⭐ بزنید!**
+**اگر این پروژه براتون مفید بود، لطفا یک ستاره ⭐ بزنید!**
 
 <br/>
 
