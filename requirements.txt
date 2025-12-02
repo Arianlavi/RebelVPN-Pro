@@ -1,0 +1,21 @@
+# RebelVPN Pro Requirements
+# Python 3.8+ required
+
+# Core GUI Framework
+customtkinter>=5.2.0
+
+# Async HTTP client for downloads and IP checks
+aiohttp>=3.8.0
+aiohttp-socks>=0.8.0
+
+# Cryptography for MahsaNG config decryption
+pycryptodome>=3.18.0
+
+# System monitoring (optional but recommended)
+psutil>=5.9.0
+
+# Note: All other dependencies are Python standard libraries
+# No additional packages required for:
+# - tkinter (built-in)
+# - asyncio (built-in)
+# - json, urllib, subprocess, etc. (built-in)
