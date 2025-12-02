@@ -1,6 +1,9 @@
-# 🛡️ RebelVPN Pro
+# 🛡️ RebelVPN Pro<a href="https://github.com/Arianlavi/RebelVPN-Pro/releases/download/v1.2.0/V1.2.zip">
+  <img src="https://img.shields.io/badge/Download_RebelVPN_Pro-v1.2.0-0099ff?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="Download RebelVPN Pro"/>
+</a>
 
 ![RebelVPN Pro](screenshot.png)
+
 
 **Powerful, Modern & Open-Source VPN Client for Windows**  
 **کلاینت وی پی ان قدرتمند، مدرن و متن‌ باز برای ویندوز**
@@ -146,8 +149,5 @@ See [LICENSE](LICENSE) for details.
 
 <br/>
 
-<a href="https://github.com/Arianlavi/RebelVPN-Pro/releases/download/v1.2.0/V1.2.zip">
-  <img src="https://img.shields.io/badge/Download_RebelVPN_Pro-v1.2.0-0099ff?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="Download RebelVPN Pro"/>
-</a>
 
 </div>
