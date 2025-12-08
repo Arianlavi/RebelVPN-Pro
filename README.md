@@ -102,6 +102,25 @@ git push origin feature/your-amazing-feature
 
 Then open a Pull Request!
 
+---
+
+## Support & Donations
+
+If PyPack V2 helps you, consider supporting the project! Your contributions improve features and maintain the project.
+
+| Cryptocurrency            | Address                                        | Network |
+| ------------------------- | ---------------------------------------------- | ------- |
+| **Bitcoin (BTC)**         | `bc1q3r79a2t3tuada56zv722ykrwjadgsh79m5pthz`   | Bitcoin |
+| **Ethereum (ETH) / USDT** | `0x66D74F4b7527ea9eD5BA5e2E02fa93fB7a90325d`   | ERC-20  |
+| **Solana (SOL)**          | `9irdHFdeWVb6cnu8HTdKAs3Lg1PD8HiQQLhVHLSAQq6X` | Solana  |
+
+**Important**:
+
+* Verify addresses before sending.
+* Donations are non-refundable.
+* Use trusted wallets like [Exodus](https://exodus.com) or [Trust Wallet](https://trustwallet.com)
+---
+
 ### Wanted Features
 - [ ] Light/Dark mode toggle
 - [ ] System tray icon & minimize to tray
